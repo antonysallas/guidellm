@@ -1,5 +1,4 @@
-import type { Metadata } from 'next';
-import { Viewport } from 'next/dist/lib/metadata/types/extra-types';
+import type { Metadata, Viewport } from 'next';
 import React from 'react';
 
 import { benchmarksScript } from '@/lib/store/benchmarksWindowData';
